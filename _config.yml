@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Oneday I will become an awesome AI researcher."
   location         : "South Korea"
-  email            : "parkkwanjoon@naver.com"
+  email            : parkkwanjoon@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
